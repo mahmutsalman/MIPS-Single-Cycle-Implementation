@@ -1,0 +1,9 @@
+00000000		// register 0
+00000002		// 
+00000010		// 
+00000000		// 	
+00000002          // rs (for srlv)
+00001000          // rt (for srlv)
+00000000          // rd (for srlv) will hold 0x400 after execution
+00000000
+00000000

@@ -1,0 +1,25 @@
+00	// add	1,2,0	dummy instruction
+22
+00
+20
+01    // sub 9,10,11
+2a
+58
+22
+6c   // baln 
+00
+00
+04
+01	// or	10,11,12	
+4b
+60
+25
+01    // sub 9,10,11   will jump here, address 16
+2a
+58
+22
+01	// or	10,11,12	
+4b
+60
+25
+
