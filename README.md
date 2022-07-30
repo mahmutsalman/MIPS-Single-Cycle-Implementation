@@ -19,7 +19,7 @@ BRZ instruction
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/74365527/181913548-6f7e231d-8d83-4168-9640-c243199c4997.png">
 <img width="272" alt="image" src="https://user-images.githubusercontent.com/74365527/181913602-3d5c067f-eeab-4409-8ad1-6ce6c3a961b6.png">
 <img width="321" alt="image" src="https://user-images.githubusercontent.com/74365527/181913610-4e9735a9-0059-450b-9ba9-68bacd547525.png">
-here sub instruction is fetched. Since $rs -$rt =0 [Z] will be ‘1’ after this instruction.
+Here sub instruction is fetched. Since $rs -$rt =0 [Z] will be ‘1’ after this instruction.
 <img width="323" alt="image" src="https://user-images.githubusercontent.com/74365527/181913622-c8e0e0c3-4354-4da9-8e60-74ef1d434a72.png">
 Here brz instruction is fetched. Since [Z] flag is 1 program will branch to address found in $rs which is hold in ‘dataa’(24). 
 
