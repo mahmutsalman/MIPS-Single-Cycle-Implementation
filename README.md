@@ -64,7 +64,9 @@ Here as shown in the waves pc value is 0x10.
 JAL instruction
 
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/74365527/181913809-7cd5faa5-2229-477e-8bb2-8c9c1415ae0d.png">
-![image](https://user-images.githubusercontent.com/74365527/181914073-14631005-5182-4a96-a7d0-5c01e20c5014.png)
+
+![image](https://user-images.githubusercontent.com/74365527/181914154-a043ab4c-b29e-4c77-b3e4-dbe0408ab1d2.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/74365527/181913816-8896ad3d-7148-4916-a812-e0526c15cf89.png)
