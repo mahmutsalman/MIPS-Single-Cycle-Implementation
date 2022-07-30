@@ -73,7 +73,10 @@ JAL instruction
 
 As shown here jal instruction is fetched. PC=4. Target address is 0x10. So next instruction’s PC value will be 0x10.
 
-![image](https://user-images.githubusercontent.com/74365527/181914082-9f2cec0d-60f6-4d29-bc14-5605e47c3ad1.png)
+
+
+![image](https://user-images.githubusercontent.com/74365527/181914109-14bd4d61-7ea3-4925-8309-1e6be1b6d9c9.png)
+
 
 As shown in this figure PC value is 10000.
 
