@@ -41,10 +41,15 @@ BALN instruction
 
 <img width="483" alt="image" src="https://user-images.githubusercontent.com/74365527/181913723-340c2363-299c-464a-9648-60bb78012036.png">
 <img width="513" alt="image" src="https://user-images.githubusercontent.com/74365527/181913735-a3a652a1-7022-4321-a0fc-4be1f5aa8b8c.png">
+
 ![image](https://user-images.githubusercontent.com/74365527/181913738-225ba489-f33b-42b7-ba4f-0ad1da0a0e6f.png)
+
 ![image](https://user-images.githubusercontent.com/74365527/181913743-c75da398-4831-4cf3-af11-6fca1889a1cf.png)
+
 [N] flag =1 and balnSignal =1. So PC+4 will be target address which is 0x10
+
 ![image](https://user-images.githubusercontent.com/74365527/181913763-d447d02d-16f4-4f32-a1d0-3ad39ac36070.png)
+
 Here as shown in the waves pc value is 0x10.
 
 <img width="447" alt="image" src="https://user-images.githubusercontent.com/74365527/181913771-67be86af-47d2-47c0-a556-06a506f12fdd.png">
