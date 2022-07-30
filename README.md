@@ -64,13 +64,16 @@ Here as shown in the waves pc value is 0x10.
 JAL instruction
 
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/74365527/181913809-7cd5faa5-2229-477e-8bb2-8c9c1415ae0d.png">
-![image](https://user-images.githubusercontent.com/74365527/181913812-c68ea749-a6a0-4c51-875e-7219b65a2ecd.png)
+![image](https://user-images.githubusercontent.com/74365527/181914073-14631005-5182-4a96-a7d0-5c01e20c5014.png)
+
+
 ![image](https://user-images.githubusercontent.com/74365527/181913816-8896ad3d-7148-4916-a812-e0526c15cf89.png)
 ![image](https://user-images.githubusercontent.com/74365527/181913819-9cb15df2-5772-4a5f-bda9-e943a92c8e49.png)
+![image](https://user-images.githubusercontent.com/74365527/181914079-3e29d023-7424-4b37-9a4a-ce48264bcc4e.png)
 
 As shown here jal instruction is fetched. PC=4. Target address is 0x10. So next instruction’s PC value will be 0x10.
 
-![image](https://user-images.githubusercontent.com/74365527/181913829-a67d0316-0cee-4be0-b452-c956446b3908.png)
+![image](https://user-images.githubusercontent.com/74365527/181914082-9f2cec0d-60f6-4d29-bc14-5605e47c3ad1.png)
 
 As shown in this figure PC value is 10000.
 
