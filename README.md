@@ -7,7 +7,7 @@ The instruction memory is created using IM.dat file coded in hexadecimal.
 
 <img width="441" alt="image" src="https://user-images.githubusercontent.com/74365527/181914204-71b5807a-73ed-4655-83aa-a2625ea12097.png">
 
-<img width="464" alt="bmn_description" src="https://user-images.githubusercontent.com/74365527/181911932-8237e448-298e-46c5-8347-b51f39b5c954.png">
+
 
 <img width="561" alt="image" src="https://user-images.githubusercontent.com/74365527/181912261-b788d3db-e181-41c2-99f3-fc639d532cf0.png">
 
