@@ -29,8 +29,8 @@ Here as shown in wave pc value is set to 11000(24)
 
 
 JMADD instruction
+
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/74365527/181913642-a35f4802-566f-4984-baac-daf0ba10f67c.png">
-<img width="363" alt="image" src="https://user-images.githubusercontent.com/74365527/181913657-7c903a1d-701f-4bf3-95c6-e39fbaf05d2e.png">
 
 <img width="433" alt="image" src="https://user-images.githubusercontent.com/74365527/181913663-8417f8e2-8799-4acb-81b6-f7f492e221f3.png">
 <img width="348" alt="image" src="https://user-images.githubusercontent.com/74365527/181913671-94fee02d-4cef-4408-9073-2cfb5941f25a.png">
@@ -53,18 +53,25 @@ BALN instruction
 Here as shown in the waves pc value is 0x10.
 
 <img width="447" alt="image" src="https://user-images.githubusercontent.com/74365527/181913771-67be86af-47d2-47c0-a556-06a506f12fdd.png">
+
 ![image](https://user-images.githubusercontent.com/74365527/181913778-172cedcb-638b-4580-9299-6dbcf929cb23.png)
+
 ![image](https://user-images.githubusercontent.com/74365527/181913784-e7c0162b-3aa1-40f5-9cd5-92c4609badb6.png)
+
 ![image](https://user-images.githubusercontent.com/74365527/181913788-0f05deba-59b2-4fd7-bf3d-c882fccf455d.png)
 
 
 JAL instruction
+
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/74365527/181913809-7cd5faa5-2229-477e-8bb2-8c9c1415ae0d.png">
 ![image](https://user-images.githubusercontent.com/74365527/181913812-c68ea749-a6a0-4c51-875e-7219b65a2ecd.png)
 ![image](https://user-images.githubusercontent.com/74365527/181913816-8896ad3d-7148-4916-a812-e0526c15cf89.png)
 ![image](https://user-images.githubusercontent.com/74365527/181913819-9cb15df2-5772-4a5f-bda9-e943a92c8e49.png)
+
 As shown here jal instruction is fetched. PC=4. Target address is 0x10. So next instruction’s PC value will be 0x10.
+
 ![image](https://user-images.githubusercontent.com/74365527/181913829-a67d0316-0cee-4be0-b452-c956446b3908.png)
+
 As shown in this figure PC value is 10000.
 
 
